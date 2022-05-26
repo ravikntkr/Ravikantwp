@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Ravikantwp
-- 👀 I’m interested in Web development & Designing
-- 🌱 I’m currently learning MCA
-- 📫 How to reach me ravikntkr@gmail.com
+- 👋 Hi, I’m Ravikant
+- 👀 learning Full Stack Web Development at Masai School
+- 📫 Reach me at: ravikntkr@gmail.com
 
 <!---
 Ravikantwp/Ravikantwp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
