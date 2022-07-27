@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravikant
-- 👀 learning Full Stack Web Development at Masai School
+- 👀 learning Full Stack Web Development
 - 📫 Reach me at: ravikntkr@gmail.com
 
 <!---
